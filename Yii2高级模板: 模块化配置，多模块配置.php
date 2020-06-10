@@ -1,6 +1,6 @@
 <?php
 
-##############  Yii2高级模板: 模块化配置，多模块配置   ##############  
+##############  Yii2高级模板: 模块化配置，多模块配置(Yii2基础模板类似配置即可,注意检查命名空间是否正确 app)   ##############  
 下载、安装高级模板
 composer create-project --prefer-dist yiisoft/yii2-app-advanced im-help
 初始化./init或执行 init.bat ， 配置nginx 域名，支持rewrite隐藏index.php等等  安装完成!
