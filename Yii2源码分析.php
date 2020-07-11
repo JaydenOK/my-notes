@@ -46,6 +46,7 @@ class BaseYii
 
 
 
+########################################################################   开始研究 (new yii\web\Application($config)) 构造操作 #############
 )))))
 入口文件 : \web\index . php
 //加载配置
@@ -62,7 +63,6 @@ class Application extends \yii\base\Application
 }
 
 
-########################################################################   研究 (new yii\web\Application($config)) 构造操作 ################################################
 )))))))))
 \yii\base\Application是一个抽象类，入口即使用此构造方法
 abstract class Application extends Module
